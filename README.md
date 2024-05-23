@@ -32,6 +32,10 @@ Questo progetto è stato sviluppato utilizzando le seguenti tecnologie:
 ## 💻 Progetto
 L'obiettivo di questo progetto è quello di confermare la frequenza online dei partecipanti al corso.
 
+<br>
+<p align="destra">
+  <img alt="projeto DevLinks" src=".github/diagrama.jpg" width="30%">
+</p>
 
 
 
