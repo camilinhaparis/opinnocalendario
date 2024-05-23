@@ -1,4 +1,4 @@
-<h1 align="center"> Opinno </h1>
+<h1 align="center"> Opinno Calendàrio</h1>
 
 <p align="center">
 Fate sentire la vostra presenza.
@@ -7,7 +7,7 @@ Fate sentire la vostra presenza.
 <p align="center">Corso AWS
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-progetto">Progetto</a>&nbsp;&nbsp;&nbsp;
   
 </p>
@@ -26,7 +26,7 @@ Questo progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 
 - HTML e CSS
-- JavaScript
+- PHP
 - Git e Github
 
 ## 💻 Progetto
