@@ -15,8 +15,10 @@ if($l != "" && $s != ""){
         $nome_log = $d['nome'];
         $sobrenome_log = $d['sobrenome'];
         $email_log = $d['email'];
-        $senha_log = $d['senha'];      
-        
+        $senha_log = $d['senha'];
+
+        // inserir um campo 'online' na base de dados e defini-lo como 'On' através deste servlet
+        // inserire nel db un campo "online" e settarlo in "On" mediante questa servlet
        
     }
 }else{
