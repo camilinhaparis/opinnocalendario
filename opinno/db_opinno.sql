@@ -64,7 +64,7 @@ CREATE TABLE 'entrate/uscite' (
   'entrata' varchar(5) NOT NULL,
   'uscita' varchar(5) NOT NULL,
   FOREIGN KEY (id_user) REFERENCES tb_user(id_user)
-  )
+  );
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
