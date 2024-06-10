@@ -59,7 +59,7 @@ COMMIT;
 
 
 
-CREATE 'entrate/uscite' (
+CREATE TABLE 'entrate/uscite' (
   'id' int(10) NOT NULL AUTO_INCREMENT PRIMARY KEY,
   'entrata' varchar(5) NOT NULL,
   'uscita' varchar(5) NOT NULL,
