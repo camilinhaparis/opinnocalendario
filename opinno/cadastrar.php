@@ -5,7 +5,7 @@ include "connect.php";
     $nome = mysqli_real_escape_string($link, $_POST['nome']);
 	$sobrenome = mysqli_real_escape_string($link, $_POST['sobrenome']); //cognome
     $email = mysqli_real_escape_string($link, $_POST['email']);
-	$senha = mysqli_real_escape_string($link, $_POST['senha']);
+	$senha = mysqli_real_escape_string($link, $_POST['senha']); //password
     $cadastrar = false;
 
     /*$_POST è una variabile globale che memorizza i dati inviati tramite il metodo HTTP POST. 

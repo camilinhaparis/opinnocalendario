@@ -22,9 +22,9 @@
         <div class="container">
           <div class="py-5 text-center">    
             <h2>
-              Registrati a ####
+              Registrati a Opinno Calendàrio
             </h2>   
-            <p class="lead">Hai già un account ######? Accedi Completando la registrazione dichiaro 
+            <p class="lead">Hai già un account Opinno Calendàrio? Accedi Completando la registrazione dichiaro 
                 di essere maggiorenne e di aver preso visione dell’ Informativa Privacy redatta ai sensi del Regolamento 
                 UE 679/2016 e di accettare i termini e le condizioni del servizio.</p>
           </div>

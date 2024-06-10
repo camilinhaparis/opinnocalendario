@@ -37,7 +37,7 @@
       </ul>
 
       
-      <footer>Fatto per <a href="#####" target="_blank">© Gruppo 2 </a></footer>
+      <footer>Fatto per © Gruppo 2 </a></footer>
 
 
     </div>
