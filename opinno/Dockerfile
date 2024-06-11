@@ -4,4 +4,4 @@ RUN apt-get update && apt-get upgrade -y
 
 WORKDIR /usr/local/apache2/htdocs
 
-ADD /opinno /usr/local/apache2/htdocs/
+ADD . /usr/local/apache2/htdocs/
