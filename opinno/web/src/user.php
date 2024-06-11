@@ -1,7 +1,7 @@
 <?php
 SESSION_START();
 include "verifica_login.php";
-include "connect.php";
+#include "connect.php";
 $consulta = "select nome from tb_user";
 $con = mysqli_query($link, $consulta);
 ?>

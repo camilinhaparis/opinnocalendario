@@ -1,9 +1,9 @@
 <?php
 //file di collegamento database
 
-$host = "127.0.0.1:3306"; 
+$host = "mysql-db:3306"; 
 $user = "root";
-$pass = "";
+$pass = "root_password";
 $banco = "db_opinno"; //nome database
 
 

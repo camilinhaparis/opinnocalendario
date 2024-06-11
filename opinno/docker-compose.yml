@@ -2,13 +2,12 @@ version: "3.8"
 services:
   php-apache-environment:
     build:
-      context: ./php
+      context: ./src
     container_name: php-apache
-    dockerfile: Dockerfile
     volumes:
       - ./web/src:/var/www/html
     ports:
-      - "8080:80"
+      - "8088:80"
     depends_on:
       - db
 
@@ -20,7 +19,7 @@ services:
       MYSQL_ROOT_PASSWORD: root_password
       MYSQL_DATABASE: db_opinno
       MYSQL_USER: root
-      MYSQL_PASSWORD: ""
+      MYSQL_PASSWORD: root_password
     volumes:
       - db_data:/var/lib/mysql
     ports:
