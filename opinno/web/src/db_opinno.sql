@@ -47,6 +47,8 @@ ALTER TABLE `tb_user`
   MODIFY `id_user` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
 
+INSERT INTO `tb_user` (`id_user`, `nome`, `sobrenome`, `email`, `senha`) VALUES (1, luca, rossi, luca.rossi@omonimo.it, lucarossi);
+
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
