@@ -1,7 +1,7 @@
 <?php
 //file di collegamento database
 
-$host = "127.0.0.1:3307"; 
+$host = "127.0.0.1:3306"; 
 $user = "root";
 $pass = "";
 $banco = "db_opinno"; //nome database
